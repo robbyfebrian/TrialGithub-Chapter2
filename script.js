@@ -1,0 +1,1 @@
+document.getElementById('trial').innerHTML = "Ini adalah text hasil script"
